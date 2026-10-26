@@ -61,7 +61,7 @@ Crave is a food delivery app UI concept designed in Figma. The design focuses on
 
 ## 🖼️ Screenshots
 
-Add screenshots of your Welcome Screen, Login Screen, and Food Menu Screen to this repository.
+Added
 
 ## 📚 Learning Outcomes
 
